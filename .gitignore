@@ -1,0 +1,13 @@
+# AI Keys and Configs
+config.txt
+.env
+
+# Python Build Files
+__pycache__/
+build/
+dist/
+*.spec
+
+# OS files
+.DS_Store
+Thumbs.db
